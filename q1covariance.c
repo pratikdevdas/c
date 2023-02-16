@@ -1,3 +1,7 @@
+// find mean medium mode using switch case
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
